@@ -408,6 +408,9 @@ footer{
          align-items: flex-start;        
          line-height: 4.2em;
      }
+     .boxing{
+         width: 80%;
+     }
      .content h2{
          background-color:#146cc4;
          color: #fff;
